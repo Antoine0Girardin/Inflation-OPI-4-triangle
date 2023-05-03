@@ -9,3 +9,5 @@ The main file "inflation.py" contains the code to run the inflation. The level o
 The files "constraints.txt" and "dense.lp" contain the detail about the inflation. 
 
 The other directories contain the value of all correlators, previously computed.
+
+The directory "saved_results" contains all the results for n_min = 3 and all possible n_max, as well as all the results for n_min=n_max.
