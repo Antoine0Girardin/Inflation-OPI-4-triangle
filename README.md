@@ -1,6 +1,6 @@
 # Inflation-OPI-4-triangle
 
-This project contains the code used in the paper "Around the Finner inequality in the symmetric four output triangle network".
+This project contains the code used in the paper "Violation of the Finner inequality in the four-output triangle network".
 
 We use NSI inflations to bound the correlator E2.
 
