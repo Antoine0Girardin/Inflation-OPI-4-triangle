@@ -11,4 +11,4 @@ The files "constraints.txt" and "dense.lp" contain the details about the inflati
 
 The other directories contain the value of all correlators, previously computed.
 
-The directory "saved_results" contains all the results for n_min = 3 and all possible n_max, as well as all the results for n_min=n_max, for both maximizing and minimizing E2.
+The directory "saved_results" contains all the results for n_min = 3 and all possible n_max, as well as all the results for n_min=n_max, for both maximizing and minimizing E2. Each line is a different solution found by Gurobi, each column is the value of the probability in the order given in the folder "name_probabilities".
